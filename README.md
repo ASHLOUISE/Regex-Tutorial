@@ -43,5 +43,8 @@ Character escapes allow you to match characters with special meanings in regex a
 
 ## Author
 
-This README was authored by Ashley Paluzzi (https://github.com/ASHLOUISE/Regex-Tutorial). https://github.com/ASHLOUISE
+This README was authored by Ashley Paluzzi. https://github.com/ASHLOUISE
 
+## Links
+
+https://gist.github.com/ASHLOUISE/267573025956b20d4b74087c43bda217
